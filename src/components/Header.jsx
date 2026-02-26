@@ -7,8 +7,9 @@ export default function Header() {
                 <img src="./assets/hand-icon.png" alt="" className="w-6 mb-1" />
             </h3>
             <h1 className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo">frontend web developer .</h1>
-            <p className="max-w-2xl mx-auto font-Ovo">I am a frontend developer from California, USA with 10 years of experience in multiple companies like Microsoft, Tesla and Apple.</p>
-
+<p className="max-w-2xl mx-auto font-Ovo">
+  I am a Front-End Developer based in Egypt with 3+ years of experience building responsive and scalable web applications using React, Vite, and Tailwind CSS. I specialize in creating clean UI/UX, dynamic dashboards, and API-driven platforms, with additional experience in Machine Learning and AI-powered systems.
+</p>
             <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
                 <a href="#contact"
                     className="px-10 py-2.5 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent">
